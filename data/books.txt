@@ -1,0 +1,4 @@
+id = 1 #///# title = title 1 #///# author = author 1 #///# language = language 1 #///# publicationDate = 2024-10-21 #///# themes = theme2, theme3, theme4 #///# takenBy = null
+id = 2 #///# title = title 2 #///# author = author 2 #///# language = language 2 #///# publicationDate = 2024-10-22 #///# themes = theme2, theme3 #///# takenBy = 2
+id = 3 #///# title = title 3 #///# author = author 3 #///# language = language 3 #///# publicationDate = 2024-10-23 #///# themes = theme4 #///# takenBy = null
+id = 4 #///# title = title 4 #///# author = author 4 #///# language = language 4 #///# publicationDate = 2024-10-24 #///# themes = theme5, theme6 #///# takenBy = 2
